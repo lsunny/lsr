@@ -1,2 +1,2 @@
 <?php
-echo '²âÊÔ';
+echo 'ok';
